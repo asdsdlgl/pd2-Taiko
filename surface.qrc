@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Surface">
+        <file>surface.jpg</file>
+        <file>bg_clear.png</file>
+        <file>mtaikoflash_blue.png</file>
+        <file>dancer_2a2.png</file>
+        <file>dancer_3a2.png</file>
+        <file>b32adf3c70abfdf29c912c0cffd7e061.jpg</file>
+        <file>73690cacb7031cfba94a0febf11b7a63d4d30832dcfe0bd91e38b739f6fb9517.jpg</file>
+        <file>2946671.jpg</file>
+        <file>bg.png</file>
+        <file>mtaikoflash_red.png</file>
+        <file>drum1.png</file>
+        <file>drum2.png</file>
+        <file>drumR2.png</file>
+        <file>drumR3.png</file>
+        <file>drumB2.png</file>
+        <file>drumB3.png</file>
+        <file>111.png</file>
+        <file>3333.png</file>
+        <file>coursesymbol_oni.png</file>
+        <file>6546.png</file>
+        <file>7777.png</file>
+    </qresource>
+</RCC>
